@@ -1,4 +1,4 @@
-#Contact Management App with Firebase Realtime Database Integration
+#**Contact Management App with Firebase Realtime Database Integration**
 
 The Contact Management App is a simple and intuitive application designed to manage your personal and professional contacts efficiently. 
 Leveraging Firebase Realtime Database, the app provides real-time updates for seamless data management across devices.
